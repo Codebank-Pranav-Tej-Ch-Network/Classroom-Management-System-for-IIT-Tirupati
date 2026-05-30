@@ -1,6 +1,6 @@
 # Classroom Booking System for IIT Tirupati
-
 ### Object-Oriented Programming (CS203M) Course Project
+**Institute:** IIT Tirupati
 
 **Developed By:**
 * **Ch Pranav Tej** (CS24B057)
@@ -264,6 +264,3 @@ While the current system offers a robust solution for campus management, there a
 The **Classroom Booking System for IIT Tirupati** successfully addresses the logistical challenges of managing campus infrastructure. By strictly adhering to **Object-Oriented Programming principles**—such as Inheritance for user roles, Polymorphism for booking conflicts, and Composition for building structure—the codebase remains modular, readable, and easy to extend.
 
 This project not only streamlines the administrative process of room allocation but also ensures fair usage of resources through its transparency and priority-based logic. It stands as a comprehensive solution ready for further scaling as the institute grows.
-
-**Course:** CS203M (Object Oriented Programming)
-**Institute:** IIT Tirupati
